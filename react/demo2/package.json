@@ -9,7 +9,7 @@
     "@fortawesome/fontawesome-free": "^5.15.3",
     "@manaflair/redux-batch": "^1.0.0",
     "@popperjs/core": "^2.9.2",
-    "@reduxjs/toolkit": "^1.6.0",
+    "@reduxjs/toolkit": "^1.9.7",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
