@@ -22,7 +22,7 @@
         "axios": "^0.21.1",
         "bootstrap": "5.1.1",
         "bootstrap-daterangepicker": "^3.1.0",
-        "bootstrap-icons": "^1.5.0",
+        "bootstrap-icons": "^1.11.2",
         "bootstrap-maxlength": "^1.10.1",
         "bootstrap-multiselectsplitter": "^1.0.4",
         "chalk": "^4.1.0",
