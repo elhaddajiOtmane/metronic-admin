@@ -8,7 +8,7 @@
     "@formatjs/intl-relativetimeformat": "^9.1.7",
     "@fortawesome/fontawesome-free": "^5.15.3",
     "@manaflair/redux-batch": "^1.0.0",
-    "@popperjs/core": "^2.9.2",
+    "@popperjs/core": "^2.11.8",
     "@reduxjs/toolkit": "^1.6.0",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
