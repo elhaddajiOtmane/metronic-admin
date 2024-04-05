@@ -5,7 +5,7 @@
     "main": "gulpfile.js",
     "type": "module",
     "dependencies": {
-        "@amcharts/amcharts4": "^4.10.20",
+        "@amcharts/amcharts4": "^4.10.36",
         "@ckeditor/ckeditor5-alignment": "^23.1.0",
         "@ckeditor/ckeditor5-build-balloon": "^23.1.0",
         "@ckeditor/ckeditor5-build-balloon-block": "^23.1.0",
