@@ -19,7 +19,7 @@
         "acorn": "^8.0.4",
         "apexcharts": "^3.27.3",
         "autosize": "^5.0.1",
-        "axios": "^0.21.1",
+        "axios": "^1.7.8",
         "bootstrap": "5.1.1",
         "bootstrap-daterangepicker": "^3.1.0",
         "bootstrap-icons": "^1.11.2",
